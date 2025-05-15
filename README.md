@@ -53,12 +53,16 @@ Proving to Any Business Party your business terms/regulations are based on your 
 The reference Implementation is based on SCF, with closely related compliance use-cases.
 ## Who it helps ?
 
-Issuer: Deep Integrity verification of depositors and payees.
-	        	MINT process – Proof of Reserves – Portfolio ZKPs  
-			    Running Universal standards-based Algorithms evaluated by FDIC/ECB
-Sellers (EXPORTERS):  DvP processes. Early payments. 
+### Issuer:
+	Deep Integrity verification of depositors and payees.
+	        MINT process – Proof of Reserves – Portfolio ZKPs  
+	 		Running Universal standards-based Algorithms evaluated by FDIC/ECB
+### Sellers (EXPORTERS):  
+	DvP processes. Early payments. 
 			AP/AR Portfolio CashFlowManagement with a Hybrid Financial Portfolio(DigitalNaviteAssets/RWAInvoices/YieldStablecoins)
-Buyers/Financiers (IMPORTERS): DvP processes. – Dynamic Discounting & Yield Management
+   
+### Buyers/Financiers (IMPORTERS):
+	DvP processes. – Dynamic Discounting & Yield Management
 			AP/AR Portfolio CashManagement with a Hybrid Financial PortfolioDigitalNaviteAssets/RWAInvoices/YieldStablecoins)
 
 
