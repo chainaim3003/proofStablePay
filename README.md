@@ -25,11 +25,9 @@ At the Account Level
 	Is this a Valid Invoice  - At the Asset Level
 
 That triggers payments / escrows 
-![image](https://github.com/user-attachments/assets/abad184e-d2dd-4b46-932d-8ef4cc1bc336)
+
 
 ## The  Solution – ProofPay DvP
-![image](https://github.com/user-attachments/assets/8fd405ce-09a2-489a-badd-104a20a9a202)
-
 
 ### KEY PLATFORM CAPABILITIES:
 
