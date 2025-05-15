@@ -29,13 +29,13 @@ That triggers payments / escrows
 
 ## The  Solution – ProofPay DvP
 
-### KEY PLATFORM CAPABILITIES:
+### Key Platform Capabilities
 
 Highly Integral ZK Proofs for Tested Proven Integrity Checks ( by Central Banks ) for Risk Assessment and Stress Testing @ Scale : WITH  SMALL AND PREDICTABLE proof sizes for complex off-chain delivery processes that drive stable coin usage.
-![image](https://github.com/user-attachments/assets/1a27671c-29ee-4ac4-b420-aee8198ce298)
+
 
 ## ProofPay: For driving StableCoin compliance and adoption
-![image](https://github.com/user-attachments/assets/e027330f-f7b4-42d4-9855-a4e3647e3d9e)
+
 
 
 ### Deep Composition Engine for
