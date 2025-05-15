@@ -1,4 +1,4 @@
-# ProofStablePay
+# Proofay DvP
 
 We are moving in to an era were the blockchain adoption is moving from Speculative only usecases to utility-based usecases coming from institutions.
 
