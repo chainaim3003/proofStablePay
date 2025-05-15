@@ -66,8 +66,11 @@ The reference Implementation is based on SCF, with closely related compliance us
 
 ## ProofPay Architecture
 
+
 ![Slide13](https://github.com/user-attachments/assets/1e72bcb7-3b1e-4d7d-89fb-5faad4c9df36)
 
+
 ![Slide12](https://github.com/user-attachments/assets/faddfe61-4d7e-4120-a262-c310e45639e3)
+
 
 ![Slide11](https://github.com/user-attachments/assets/aa61b5ee-4b44-4a13-af6c-0e820532ebc4)
