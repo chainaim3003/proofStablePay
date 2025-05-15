@@ -11,7 +11,7 @@ https://www.dfns.co/article/stablecoin-guide
 ## PROBLEM CONTEXT: Stablecoins are Key to drive Blockchain Adoption: Many gaps are yet to be filled to drive adoption
 ![image](https://github.com/user-attachments/assets/91436b01-9589-4688-9620-0ce182c2d3bb)
 
-## To drive Real World Utility to Stable coins : We need effective Proofs for Reserves and Delivery Versus Payments
+### To drive Real World Utility to Stable coins : We need effective Proofs for Reserves and Delivery Versus Payments
 ![image](https://github.com/user-attachments/assets/056c3338-cd84-4f82-b749-2992a1c8ec74)
 
 Who are we paying ? What are we paying for ?
