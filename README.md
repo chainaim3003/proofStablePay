@@ -4,8 +4,6 @@ We are moving in to an era were the blockchain adoption is moving from Speculati
 
 Stablecoins continue to reshape global payments, but setting up a reliable payment route is more than just tech—it’s about compliance, KYC, and seamless fiat conversions. 
 
-Dfns guides to integrate stablecoins into operations.
-
 https://www.dfns.co/article/stablecoin-guide
 
 ## PROBLEM CONTEXT: Stablecoins are Key to drive Blockchain Adoption: Many gaps are yet to be filled to drive adoption
