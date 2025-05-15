@@ -64,6 +64,18 @@ The reference Implementation is based on SCF, with closely related compliance us
 			AP/AR Portfolio CashManagement with a Hybrid Financial PortfolioDigitalNaviteAssets/RWAInvoices/YieldStablecoins)
 
 
+## Presentation 
+
+
+
+## Video 
+
+
+
+
+   
+
+
 ## ProofPay Architecture
 
 
