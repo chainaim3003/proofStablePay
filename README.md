@@ -51,17 +51,15 @@ Proving to Any Business Party your business terms/regulations are based on your 
 ### Registry – Based on a registry for source of information ( evolution ) for tracking source of data.
 
 The reference Implementation is based on SCF, with closely related compliance use-cases.
-![image](https://github.com/user-attachments/assets/497d4d89-c699-4146-916d-9d44860dd9c8)
-
 ## Who it helps ?
 
 Issuer: Deep Integrity verification of depositors and payees.
 	        	MINT process – Proof of Reserves – Portfolio ZKPs  
 			    Running Universal standards-based Algorithms evaluated by FDIC/ECB
 Sellers (EXPORTERS):  DvP processes. Early payments. 
-			AP/AR Portfolio CashFlowManagement with a Hybrid Financial 								Portfolio(DigitalNaviteAssets/RWAInvoices/YieldStablecoins)
+			AP/AR Portfolio CashFlowManagement with a Hybrid Financial Portfolio(DigitalNaviteAssets/RWAInvoices/YieldStablecoins)
 Buyers/Financiers (IMPORTERS): DvP processes. – Dynamic Discounting & Yield Management
-			AP/AR Portfolio CashManagement with a Hybrid Financial 									PortfolioDigitalNaviteAssets/RWAInvoices/YieldStablecoins)
-![image](https://github.com/user-attachments/assets/d289a5c0-86f0-4af4-a56d-92abb961d9e7)
+			AP/AR Portfolio CashManagement with a Hybrid Financial PortfolioDigitalNaviteAssets/RWAInvoices/YieldStablecoins)
+
 
 
